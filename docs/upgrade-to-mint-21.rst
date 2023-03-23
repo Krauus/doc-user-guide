@@ -30,7 +30,7 @@ When the tool is done and the upgrade is successful uninstall it and reboot your
 
 This is a major upgrade. It can take several hours.
 
-You will be asked to be up to date and to prepare system snapshots. Do not rush, do not take shortcuts.
+You will be asked to be up to date and to prepare system snapshots. Do not rush; do not take shortcuts.
 
 Don’t hesitate to seek help if you have questions or if you face problems with the upgrade.
 
